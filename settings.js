@@ -17,7 +17,7 @@ global.egg = "15"
 global.loc = "1"
 global.anticall = false
 global.autoReadChat = false
-global.alwaysonline = true
+global.alwaysonline = false
 global.autoswview = false
 global.public = false
 global.autoreact = false
@@ -43,7 +43,7 @@ global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
+global.botName = "ANGEL OF LIGHT" 
 global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
